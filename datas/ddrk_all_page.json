@@ -1,0 +1,106 @@
+[
+{
+    "type_": "热映中",
+    "link": "https://ddrk.me/category/airing/",
+    "sub_type": null,
+    "sub_link": null
+},
+{
+    "type_": "站长推荐",
+    "link": "https://ddrk.me/tag/recommend/",
+    "sub_type": null,
+    "sub_link": null
+},
+{
+    "type_": "剧集 ",
+    "link": "#",
+    "sub_type": [
+        "欧美剧",
+        "日剧",
+        "韩剧",
+        "华语剧",
+        "其他地区"
+    ],
+    "sub_link": [
+        "https://ddrk.me/category/drama/western-drama/",
+        "https://ddrk.me/category/drama/jp-drama/",
+        "https://ddrk.me/category/drama/kr-drama/",
+        "https://ddrk.me/category/drama/cn-drama/",
+        "https://ddrk.me/category/drama/other/"
+    ]
+},
+{
+    "type_": "电影 ",
+    "link": "#",
+    "sub_type": [
+        "全部",
+        "欧美电影",
+        "日韩电影",
+        "华语电影",
+        "豆瓣电影Top250"
+    ],
+    "sub_link": [
+        "https://ddrk.me/category/movie/",
+        "https://ddrk.me/category/movie/western-movie/",
+        "https://ddrk.me/category/movie/asian-movie/",
+        "https://ddrk.me/category/movie/chinese-movie/",
+        "https://ddrk.me/tag/douban-top250/"
+    ]
+},
+{
+    "type_": "新番",
+    "link": "https://ddrk.me/category/anime/new-bangumi/",
+    "sub_type": null,
+    "sub_link": null
+},
+{
+    "type_": "类型 ",
+    "link": "#",
+    "sub_type": [
+        "动画",
+        "动作",
+        "喜剧",
+        "爱情",
+        "科幻",
+        "犯罪",
+        "悬疑",
+        "恐怖",
+        "纪录片",
+        "综艺"
+    ],
+    "sub_link": [
+        "https://ddrk.me/category/anime/",
+        "https://ddrk.me/tag/action/",
+        "https://ddrk.me/tag/comedy/",
+        "https://ddrk.me/tag/romance/",
+        "https://ddrk.me/tag/sci-fi/",
+        "https://ddrk.me/tag/crime/",
+        "https://ddrk.me/tag/mystery/",
+        "https://ddrk.me/tag/horror/",
+        "https://ddrk.me/category/documentary/",
+        "https://ddrk.me/category/variety/"
+    ]
+},
+{
+    "type_": "其他 ",
+    "link": "#",
+    "sub_type": [
+        "会员登录",
+        "已下架视频",
+        "会员专区",
+        "关于本站"
+    ],
+    "sub_link": [
+        "https://ddrk.me/ddrklogin3/",
+        "https://ddrk.me/deleted/",
+        "https://ddrk.me/category/vip/",
+        "https://ddrk.me/about/"
+    ]
+},
+{
+    "type_": null,
+    "link": "#",
+    "sub_type": null,
+    "sub_link": null
+}
+]
