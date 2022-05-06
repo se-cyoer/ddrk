@@ -23,6 +23,6 @@
               if title.endswith('剧'):
                   yield scrapy.Request(url=url, callback=self.parse, cb_kwargs=dict(name=name, title=title, total=total))
 + 修改粗存地址和读取数据地址
-  + ····shell
+  + ````shell
   /home/*/Desktop/pyspider/ddrk/datas 
   将*改为对应的
