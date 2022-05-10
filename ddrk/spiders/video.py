@@ -18,7 +18,7 @@ class VideoSpider(scrapy.Spider):
     custom_settings = {
         'ROBOTSTXT_OBEY': False,
         'RETRY_HTTP_CODES': [401, 403, 500, 502, 504, 504],
-        'RETYR_TIMES': 5,
+        'RETRY_TIMES': 5,
         'SPIDER_MIDDLEWARES': {
             'scrapy_deltafetch.DeltaFetch': 100,
         },
